@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "title": "React Pour les nuls",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fuga optio ducimus distinctio tempora error corporis ullam incidunt nobis illo quasi, accusantium ratione facere dignissimos voluptates facilis dolor deserunt, quidem tenetur.",
+      "created_at": "10/25/2025",
+      "id": "2",
+      "image": "https://unsplash.it/1000/300?image=815",
+      "likes": 14,
+      "comments": [],
+      "user": "Cire-Dev"
+    }
+  ],
+  "users": []
+}
