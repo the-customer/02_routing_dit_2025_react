@@ -1,7 +1,13 @@
 import React from 'react'
 import { DEFAULT_IMG_PROFILE } from '../const/Const'
+import { useNavigate } from 'react-router-dom';
 
 export default function PostItem({ posts, handleDeletePost }) {
+
+    const navigate = useNavigate();
+    function handleUpdatePost(id) {
+        navigate(`/create`, { state: { id } });
+    }
     return (
         <>
             {posts.map(post => (
@@ -25,7 +31,8 @@ export default function PostItem({ posts, handleDeletePost }) {
                                 onClick={() => handleDeletePost(post.id)} >
                                 <i className="fas fa-trash-alt text-red-500"></i>
                             </button>
-                            <button>
+                            <button
+                                onClick={() => handleUpdatePost(post.id)}>
                                 <i className="fas fa-edit text-yellow-500 cursor-pointer"></i>
                             </button>
 

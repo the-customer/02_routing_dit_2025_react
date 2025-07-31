@@ -3,13 +3,60 @@
     {
       "title": "React Pour les nuls",
       "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fuga optio ducimus distinctio tempora error corporis ullam incidunt nobis illo quasi, accusantium ratione facere dignissimos voluptates facilis dolor deserunt, quidem tenetur.",
-      "created_at": "10/25/2025",
+      "created_at": "10/25/2025 10:11:30",
       "id": "2",
       "image": "https://unsplash.it/1000/300?image=815",
       "likes": 14,
       "comments": [],
       "user": "Cire-Dev"
+    },
+    {
+      "id": "6",
+      "title": "La crédibilité du Sénégal est menacée",
+      "image": "https://images.seneweb.com/dynamic/modules/news/images/gen/fb/96e370a7b6b634f4a800c5324c91ff1daddef019.jpeg",
+      "body": "Diplomatie\n\"La crédibilité du Sénégal est menacée\" : La presse américaine s'empare de l'affaire Khadim Ba\nPar: Mouhamed CAMARA - Seneweb.com | 31 juillet, 2025 à 11:07:06  | Lu 15670 Fois |  170 Commentaires\nSingle Post\n\"La crédibilité du Sénégal est menacée\" : La presse américaine s'empare de l'affaire Khadim Ba\nL'affaire Khadim Ba prend une tournure internationale. Arrêté et incarcéré pour des infractions douanières sur la réglementation des changes le 4 octobre 2024, sa situation a interpellé l'Ambassadeur de la paix des Nations Unies, le Dr Michael Obeng. Dans la foulée, la presse américaine s'est emparée de l'affaire, parlant d'un \"tollé mondial\" et d'un risque de voir la solide démocratie sénégalaise tant chantée tomber en bandoulière. \n\n« Il s'agit désormais d'un problème mondial, et non plus seulement d'une injustice locale. », a déclaré le Dr Obeng dans une tribune. « La communauté internationale ne peut rester les bras croisés tandis qu'un homme qui a tant donné sert de bouc émissaire politique (...) Selon les observateurs, la détention de Ba est motivée par des raisons économiques et politiques. Il (M. Ba)  a acquis une participation de 34 % dans la raffinerie de pétrole SAR en 2019 par l'intermédiaire du groupe Locafrique. Ses parts auraient été diluées à 0,5 % sans compensation après des différends avec le gouvernement.», a ajouté l'Ambassadeur.",
+      "likes": 0,
+      "comments": [],
+      "created_at": "31/07/2025 19:25:43",
+      "user": "TheCustomer"
+    },
+    {
+      "id": "97a3",
+      "title": "un titre",
+      "image": "https://unsplash.it/1000/300?image=852",
+      "body": "un dfkljsda flsdj flkjsda flksdjaf lsdkj f",
+      "likes": 0,
+      "comments": [],
+      "created_at": "31/07/2025 20:27:10",
+      "user": "TheCustomer"
+    },
+    {
+      "id": "d83f",
+      "title": "La crédibilité du Sénégal est menacée",
+      "image": "https://images.seneweb.com/dynamic/modules/news/images/gen/fb/96e370a7b6b634f4a800c5324c91ff1daddef019.jpeg",
+      "body": "Diplomatie\n\"La crédibilité du Sénégal est menacée\" : La presse américaine s'empare de l'affaire Khadim Ba\nPar: Mouhamed CAMARA - Seneweb.com | 31 juillet, 2025 à 11:07:06  | Lu 15670 Fois |  170 Commentaires\nSingle Post\n\"La crédibilité du Sénégal est menacée\" : La presse américaine s'empare de l'affaire Khadim Ba\nL'affaire Khadim Ba prend une tournure internationale. Arrêté et incarcéré pour des infractions douanières sur la réglementation des changes le 4 octobre 2024, sa situation a interpellé l'Ambassadeur de la paix des Nations Unies, le Dr Michael Obeng. Dans la foulée, la presse américaine s'est emparée de l'affaire, parlant d'un \"tollé mondial\" et d'un risque de voir la solide démocratie sénégalaise tant chantée tomber en bandoulière. \n\n« Il s'agit désormais d'un problème mondial, et non plus seulement d'une injustice locale. », a déclaré le Dr Obeng dans une tribune. « La communauté internationale ne peut rester les bras croisés tandis qu'un homme qui a tant donné sert de bouc émissaire politique (...) Selon les observateurs, la détention de Ba est motivée par des raisons économiques et politiques. Il (M. Ba)  a acquis une participation de 34 % dans la raffinerie de pétrole SAR en 2019 par l'intermédiaire du groupe Locafrique. Ses parts auraient été diluées à 0,5 % sans compensation après des différends avec le gouvernement.», a ajouté l'Ambassadeur.",
+      "likes": 0,
+      "comments": [],
+      "created_at": "31/07/2025 20:28:19",
+      "user": "TheCustomer"
+    },
+    {
+      "title": "yes it works",
+      "image": "https://unsplash.it/1000/300?image=290",
+      "body": "this is the lastest update.",
+      "likes": 0,
+      "comments": [],
+      "created_at": "31/07/2025 20:38:52",
+      "user": "TheCustomer",
+      "id": "6612"
     }
   ],
-  "users": []
+  "users": [
+    {
+      "id": "1",
+      "name": "Cire-Dev",
+      "email": "ciredev@gmail.com",
+      "password": "123456"
+    }
+  ]
 }

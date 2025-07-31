@@ -1,15 +1,20 @@
 import React, { useEffect, useState } from 'react'
 import PostItem from '../components/PostItem'
 import Loader from '../components/Loader';
+import { API_URL } from '../const/Const';
 
 export default function Home() {
     const [posts, setPosts] = useState([]);
     const [loading, setLoading] = useState(true);
 
     useEffect(() => {
-        fetch('http://localhost:3000/posts')
+        fetch(`${API_URL}/posts`)
             .then(response => response.json())
             .then(data => {
+                const tab = [1, 2, 3];
+                tab.sort((a, b) => a - b);
+                console.log(tab);
+                data.sort((a, b) => b.id - a.id);
                 setPosts(data);
                 setLoading(false);
             })
